@@ -1,0 +1,20 @@
+.globe-card {
+    color: #000;
+    background-color: #ffffff;
+    border: 1px solid rgb(226, 227, 227);
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    padding: .6rem 1rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+.globe-card .country-name {
+    font-weight: bold;
+    margin-bottom: 2px;
+    font-size: 16px;
+    color: #000;
+}
+.globe-card span {
+    font-size: 14px;
+    color: #494949
+}

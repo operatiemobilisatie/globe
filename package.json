@@ -1,0 +1,16 @@
+{
+  "name": "@operatiemobilisatie/globe",
+  "version": "0.0.1",
+  "description": "Interactive OM Globe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@douwepausma",
+  "license": "MIT",
+  "dependencies": {
+    "react-globe.gl": "^2.27.1",
+    "react-in-viewport": "^1.0.0-alpha.30",
+    "three": "^0.161.0"
+  }
+}
